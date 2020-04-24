@@ -28,4 +28,4 @@ def envia_Email(From, Assunto, Login, Senha, Text):
             print('Houve um erro na hora de enviar os emails')
 
 
-envia_Email('Teste', 'Teste', 'seuemail@gmail.com', 'senha', 'Esse é um email de teste')
+envia_Email('Teste', 'Teste', 'teste@gmail.com', 'senha', 'Esse é um email de teste')
